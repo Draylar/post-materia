@@ -1,0 +1,38 @@
+{
+  "block.postmateria.phantasmite_ore": "판타즈마이트 광석",
+  "item.postmateria.phantasmite": "판타즈마이트",
+  "item.postmateria.phantasmite_sword": "판타즈마이트 검",
+  "item.postmateria.phantasmite_pickaxe": "판타즈마이트 곡괭이",
+  "item.postmateria.phantasmite_shovel": "판타즈마이트 삽",
+  "item.postmateria.phantasmite_axe": "판타즈마이트 도끼",
+  "item.postmateria.phantasmite_hoe": "판타즈마이트 괭이",
+  "item.postmateria.thundering_phantasm": "천둥 판타즘",
+  "item.postmateria.phantasmite_helmet": "판타즈마이트 투구",
+  "item.postmateria.phantasmite_chestplate": "판타즈마이트 흉갑",
+  "item.postmateria.phantasmite_leggings": "판타즈마이트 레깅스",
+  "item.postmateria.phantasmite_boots": "판타즈마이트 부츠",
+
+  "block.postmateria.soulblaze_ore": "소울 블레이즈 광석",
+  "item.postmateria.soulblaze": "소울 블레이즈",
+  "item.postmateria.soulblaze_sword": "소울 블레이즈 검",
+  "item.postmateria.soulblaze_pickaxe": "소울 블레이즈 곡괭이",
+  "item.postmateria.soulblaze_shovel": "소울 블레이즈 삽",
+  "item.postmateria.soulblaze_axe": "소울 블레이즈 도끼",
+  "item.postmateria.soulblaze_hoe": "소울 블레이즈 괭이",
+  "item.postmateria.soulblaze_helmet": "소울 블레이즈 투구",
+  "item.postmateria.soulblaze_chestplate": "소울 블레이즈 흉갑",
+  "item.postmateria.soulblaze_leggings": "소울 블레이즈 레깅스",
+  "item.postmateria.soulblaze_boots": "소울 블레이즈 부츠",
+  "item.postmateria.soul_surfer": "소울 서퍼",
+
+  "block.postmateria.phantasmite_block": "판타즈마이트 블록",
+  "block.postmateria.phantasmite_geyser": "판타즈마이트 가이저",
+  "block.postmateria.phantasma_spawner": "판타즈마 스포너",
+
+  "postmateria.translation.soulblaze": "§b소울 블레이즈: §7공격 적중 시 §b영혼 불꽃을 §7가합니다.",
+  "postmateria.translation.phantasmite": "§판타즈마 분노: §7가한 데미지의 §b10% §7만큼 회복합니다.",
+  "postmateria.translation.phantasmite_armor": "§7치유 버프를 §b10% §7제공합니다.",
+  "postmateria.translation.phantasmite_set": "§7세트 보너스: 추가적인 §b10% §7치유 버프.",
+  "postmateria.translation.phantasmite_pickaxe": "§7소울 블레이즈: 광석을 캔 후 §b하트 하나를 §7회복합니다.",
+  "postmateria.translation.soulblaze_generation": "§b이글거리는 §7네더가 당신의의 §b영혼 §7의 울부짖음을 받아들였다§7..."
+}
